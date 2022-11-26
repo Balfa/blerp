@@ -1,4 +1,4 @@
-namespace blerp;
+namespace Blerp;
 
 /// <summary>
 /// Some class.

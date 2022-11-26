@@ -1,6 +1,6 @@
-namespace blerp.Test;
+namespace Blerp.Test;
 
-using blerp;
+using Blerp;
 using Xunit;
 
 public class Class1Test

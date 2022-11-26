@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup Label="Project References">
-    <ProjectReference Include="..\..\Source\blerp\blerp.csproj" />
+    <ProjectReference Include="..\..\Source\Blerp\Blerp.csproj" />
   </ItemGroup>
 
 </Project>
