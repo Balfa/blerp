@@ -1,9 +1,7 @@
 <Project>
 
   <PropertyGroup Label="Build">
-    <GenerateDocumentationFile>false</GenerateDocumentationFile>
     <LangVersion>latest</LangVersion>
-    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <AnalysisLevel>latest</AnalysisLevel>
     <AnalysisMode>AllEnabledByDefault</AnalysisMode>
     <ImplicitUsings>enable</ImplicitUsings>
